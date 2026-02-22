@@ -1,0 +1,11 @@
+D:\Cafeteria\src\Cafeteria.Domain\bin\Debug\net9.0\Cafeteria.Domain.deps.json
+D:\Cafeteria\src\Cafeteria.Domain\bin\Debug\net9.0\Cafeteria.Domain.dll
+D:\Cafeteria\src\Cafeteria.Domain\bin\Debug\net9.0\Cafeteria.Domain.pdb
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\Cafeteria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\Cafeteria.Domain.AssemblyInfoInputs.cache
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\Cafeteria.Domain.AssemblyInfo.cs
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\Cafeteria.Domain.csproj.CoreCompileInputs.cache
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\Cafeteria.Domain.dll
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\refint\Cafeteria.Domain.dll
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\Cafeteria.Domain.pdb
+D:\Cafeteria\src\Cafeteria.Domain\obj\Debug\net9.0\ref\Cafeteria.Domain.dll

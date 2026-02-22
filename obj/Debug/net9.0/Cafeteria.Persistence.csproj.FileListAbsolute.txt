@@ -1,0 +1,15 @@
+D:\Cafeteria\src\Cafeteria.Persistence\bin\Debug\net9.0\Cafeteria.Persistence.deps.json
+D:\Cafeteria\src\Cafeteria.Persistence\bin\Debug\net9.0\Cafeteria.Persistence.dll
+D:\Cafeteria\src\Cafeteria.Persistence\bin\Debug\net9.0\Cafeteria.Persistence.pdb
+D:\Cafeteria\src\Cafeteria.Persistence\bin\Debug\net9.0\Cafeteria.Domain.dll
+D:\Cafeteria\src\Cafeteria.Persistence\bin\Debug\net9.0\Cafeteria.Domain.pdb
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteria.Persistence.csproj.AssemblyReference.cache
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteria.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteria.Persistence.AssemblyInfoInputs.cache
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteria.Persistence.AssemblyInfo.cs
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteria.Persistence.csproj.CoreCompileInputs.cache
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteri.6DF1E191.Up2Date
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteria.Persistence.dll
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\refint\Cafeteria.Persistence.dll
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\Cafeteria.Persistence.pdb
+D:\Cafeteria\src\Cafeteria.Persistence\obj\Debug\net9.0\ref\Cafeteria.Persistence.dll

@@ -1,0 +1,60 @@
+@Starbucks.Api_HostAddress = http://localhost:5100
+
+GET {{ Starbucks.Api_HostAddress }}/api/categories
+Accept: application/json
+
+###
+
+POST {{ Starbucks.Api_HostAddress }}/api/coffes
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "cafetest",
+    "description": "cafe descripcion",
+    "price": 50,
+    "categoryId": 2,
+    "imagen":""
+}
+
+###
+
+PUT {{ Starbucks.Api_HostAddress }}/api/coffes/0196e3ef-908a-7d55-85a3-51f8a07bc823
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "cafe actualizado",
+    "description": "cafe descripcion actualizado",
+    "price": 50,
+    "categoryId": 2,
+    "imagen":""
+}
+
+###
+
+GET {{ Starbucks.Api_HostAddress }}/api/coffes/0196e3ef-908a-7d55-85a3-51f8a07bc823
+Accept: application/json
+
+###
+
+DELETE  {{ Starbucks.Api_HostAddress }}/api/coffes/0196e3ef-908a-7d55-85a3-51f8a07bc823
+Accept: application/json
+
+###
+
+GET  {{ Starbucks.Api_HostAddress }}/api/coffes
+Accept: application/json
+
+###
+
+
+###
+GET https://appdevstdevus2starbucks.table.core.windows.net/CafeCategories?sp=r&st=2026-08-13T13:59:46Z&se=2026-08-14T22:14:00Z&spr=https&sv=2026-02-06&sig=O0aWRwvbMkwA6ROYlF8ikyb%2F73wZsBoJ5YKnDrpuZNM%3D&tn=CafeCategories
+Accept: application/json
+###
+
+### esto es un ejemplo como el de arriba pero filtrando por un id
+GET https://appdevstdevus2starbucks.table.core.windows.net/CafeCategories?$filter=(Id%20eq%201)&sp=r&st=2026-08-13T13:59:46Z&se=2026-08-14T22:14:00Z&spr=https&sv=2026-02-06&sig=O0aWRwvbMkwA6ROYlF8ikyb%2F73wZsBoJ5YKnDrpuZNM%3D&tn=CafeCategories
+Accept: application/json
+###
